@@ -1,6 +1,5 @@
-# JavaMySqlSample
+# Java MySql Sample
 
-Java Mysql Sample
 Mysql Connect With Java
 
 Use mysql-connector-java-5.1.37-bin.jar
